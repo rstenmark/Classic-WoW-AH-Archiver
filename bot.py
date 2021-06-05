@@ -28,4 +28,4 @@ async def price_check(ctx, *, arg):
 async def on_ready():
     print('[login] Logged in as {0.user}'.format(bot))
 
-bot.run('NzgwMzIyNzU5MTg4MjgzMzkz.X7taMw.iljQqfH13aGp3J81nuJVNRaPo5g')
+bot.run('[discord bot token here]')
