@@ -11,7 +11,7 @@ import schedule
 # Base URL for the nexushub API
 API = 'https://api.nexushub.co/wow-classic/v1'
 # The server/faction market to pull data for
-AH = 'faerlina-alliance'
+AH = 'pagle-alliance'
 
 class Subscriber:
     def __init__(self, API: str, auction_house: str, database='ah.db'):
